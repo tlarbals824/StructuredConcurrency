@@ -1,0 +1,9 @@
+
+### sync
+GET localhost:8080/sync
+
+### async
+GET localhost:8080/async
+
+### async with Structured Concurrency
+GET localhost:8080/asyncWithStructuredConcurrency
